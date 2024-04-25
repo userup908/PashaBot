@@ -29,7 +29,7 @@ global.themeemoji = '🪀'
 global.wm = "Xeon Bot Inc."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20'
+global.link = ''
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
