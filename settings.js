@@ -22,14 +22,14 @@ global.botname = 'ˣᵉᵒⁿ ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = '🦄DGXeon\n\nContact: +916909137213'
+global.author = '🦄DGXeon\n\nContact: +447700149711'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "Xeon Bot Inc."
+global.wm = "Usman Bot Inc."
 
 //theme link
-global.link = 'https://chat.whatsapp.com/IilUBY42hC5LljukJDRdtH'
+global.link = 'https://chat.whatsapp.com/E6ZIVekANBvKCl1c8gziv9'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
