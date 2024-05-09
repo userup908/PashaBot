@@ -11,13 +11,13 @@ const chalk = require('chalk')
 
 //contact details
 global.ownernomer = "447700149711"
-global.ownername = "🦄Usman Pasha"
+global.ownername = "🦄Sardar Adil"
 global.ytname = "YT: Xeon"
 global.socialm = "GitHub: DGXeon"
 global.location = "India, Mizoram, Aizawl"
 
 global.ownernumber = '447700149711'  //creator number
-global.ownername = '🦄Usman Pasha' //owner name
+global.ownername = '🦄Sardar Adil' //owner name
 global.botname = 'ˣᵉᵒⁿ ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
@@ -26,7 +26,7 @@ global.author = '🦄DGXeon\n\nContact: +447700149711'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "Usman Bot Inc."
+global.wm = "Sardar Adil Inc."
 
 //theme link
 global.link = 'https://chat.whatsapp.com/E6ZIVekANBvKCl1c8gziv9'
